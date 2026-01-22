@@ -1,16 +1,52 @@
-## Hi there 👋
+# Dawood Hamayun — Product Engineer (Full-Stack)
 
-<!--
-**Dawood-Hamayun/Dawood-Hamayun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **modern web products** with a strong UX sense and the engineering depth to back it up — from **0 → shipped**, with real users and real constraints in mind.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I’m a builder who cares about *how things feel* **and** *how they hold up*.
+
+---
+
+## 🎯 How I Work (What You’d Notice)
+
+I like shipping work that creates obvious wins for teams:
+
+- **makes messy information easier to understand**
+- **reduces repetitive work** with automation that still feels transparent
+- **turns “multi-step complexity” into a guided experience**
+- **creates reusable outputs** (reports, exports, saved artifacts) — not one-off screens
+- feels steady under pressure: **large inputs, edge cases, retries, real-world usage**
+
+---
+
+## 🏷️ Quick Signals
+
+<p align="left">
+  <img alt="Product Engineering" src="https://img.shields.io/badge/Product-Engineering-111111?style=flat" />
+  <img alt="Full Stack" src="https://img.shields.io/badge/Full--Stack-Web%20Apps-111111?style=flat" />
+  <img alt="Applied AI" src="https://img.shields.io/badge/Applied-AI%20%26%20RAG-111111?style=flat" />
+  <img alt="Real Time" src="https://img.shields.io/badge/Real--Time-Collaboration-111111?style=flat" />
+  <img alt="Analytics" src="https://img.shields.io/badge/Data-Analytics%20%26%20Pipelines-111111?style=flat" />
+
+---
+
+## 📌 Featured Projects
+
+A few public builds that represent how I think and ship:
+
+| Project | What it is | Highlights |
+|---|---|---|
+| **DesignIQ** | Turns UX research into structured insight (survey + interviews + personas) | analysis pipelines, insight UX, saved outputs, summarization |
+| **Not Helping™** | Satirical AI therapist with persona-driven sessions | product writing, interaction design, AI persona behavior |
+| **TaskRelay** | Collaborative workspace with real-time state | multi-user workflows, roles, permissions, live updates |
+| **ColorFont** | Quick UI tool for exploring typography + color | small product thinking, fast iteration, clean UI |
+
+> These are just the **pinned highlights** — I also build lots of smaller experiments and client-style apps that don’t always end up public.
+
+---
+</p>
+
+---
