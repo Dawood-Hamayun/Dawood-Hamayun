@@ -39,10 +39,10 @@ A few public builds that represent how I think and ship:
 
 | Project | What it is | Highlights |
 |---|---|---|
-| **DesignIQ** | Turns UX research into structured insight (survey + interviews + personas) | analysis pipelines, insight UX, saved outputs, summarization |
-| **Not Helping™** | Satirical AI therapist with persona-driven sessions | product writing, interaction design, AI persona behavior |
-| **TaskRelay** | Collaborative workspace with real-time state | multi-user workflows, roles, permissions, live updates |
-| **ColorFont** | Quick UI tool for exploring typography + color | small product thinking, fast iteration, clean UI |
+| **[DesignIQ](https://github.com/Dawood-Hamayun/Design-IQ)** | Turns UX research into structured insight (survey + interviews + personas) | analysis pipelines, insight UX, saved outputs, summarization |
+| **[Not Helping™](https://github.com/Dawood-Hamayun/Not-Helper)** | Satirical AI therapist with persona-driven sessions | product writing, interaction design, persona behavior |
+| **[TaskRelay](https://github.com/Dawood-Hamayun/Task-Relay)** | Collaborative workspace with real-time state | multi-user workflows, roles/permissions, live updates |
+| **[ColorFont](https://github.com/Dawood-Hamayun/Color-Font)** | Quick UI tool for exploring typography + color | fast iteration, small tooling, clean UI |
 
 > These are just the **pinned highlights** — I also build lots of smaller experiments and client-style apps that don’t always end up public.
 
